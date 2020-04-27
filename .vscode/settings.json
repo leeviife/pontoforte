@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.letterSpacing": 0.2,
+    "editor.lineHeight": 20,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on"
+}
